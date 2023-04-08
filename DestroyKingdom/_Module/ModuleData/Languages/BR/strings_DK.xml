@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português (BR)" />
+  </tags>
+  <strings>
+    <!-- Dialogos -->
+
+    <string id="DK_Start" text="Carregado"/>
+    <string id="DK_001" text="Condições de anexação"/>
+    <string id="DK_002" text="Penalidade de relacionamento de execução rebelde reduzida"/>
+    <string id="DK_003" text="Chances de colaboração"/>
+    <string id="DK_004" text="Anexação"/>
+    <string id="DK_005" text="Quantidade máxima de feudos do reino anexado"/>
+    <string id="DK_006" text="Reino pode ser anexado apenas se tiver menos feudos do que o configurado por este valor"/>
+    <string id="DK_007" text="Condições de anexação"/>
+    <string id="DK_008" text="Percentual máximo de força relativa do reino anexado"/>
+    <string id="DK_009" text="O reino pode ser anexado somente se sua força total dividida pela força do seu reino anexado for menor que este valor"/>
+    <string id="DK_010" text="Condições de anexação"/>
+    <string id="DK_011" text="Feudos culturais mínimos"/>
+    <string id="DK_012" text="O reino pode anexar outro reino somente se a porcentagem de feudos que têm a cultura do reino anexada controlada por este reino anexado for pelo menos tão grande quanto este valor"/>
+    <string id="DK_013" text="Condições de anexação"/>
+    <string id="DK_014" text="Denom. da penalidade de relação de execução (reino anexado)"/>
+    <string id="DK_015" text="A penalidade de relacionamento com nobres do reino anexado após a execução de nobres rebeldes do reino anexado será dividida por este número"/>
+    <string id="DK_016" text="Penalidade de relacionamento de execução rebelde reduzida"/>
+    <string id="DK_017" text="Denom. da penalidade de relação de execução (outros reinos)"/>
+    <string id="DK_018" text="A penalidade de relacionamento com nobres de outros reinos após a execução de nobres rebeldes do reino anexado será dividida por este número"/>
+    <string id="DK_019" text="Penalidade de relacionamento de execução rebelde reduzida"/>
+    <string id="DK_020" text="Mínima chance de colaboração"/>
+    <string id="DK_021" text="Chance mínima de clãs vassalos do reino anexado se juntarem ao seu reino após a anexação (não se aplica a governantes que sempre se juntarão e mercenários que apenas rescindirão seus contratos)."/>
+    <string id="DK_022" text="Possibilidades de colaboração"/>
+    <string id="DK_023" text="Máxima chance de colaboração"/>
+    <string id="DK_024" text="Chance máxima de clãs vassalos do reino anexado se juntarem ao seu reino após a anexação - quanto melhores forem suas relações com os senhores do reino, maior a chance de eles se juntarem a você. Este valor será ignorado se for menor que o mínimo."/>
+    <string id="DK_025" text="Chances de colaboração"/>
+    <string id="DK_026" text="Você precisa fornecer o nome do reino como parâmetro (os espaços são ignorados): 'annexation.vassalize_all_rebels [kingdom]'."/>
+    <string id="DK_027" text="Você precisa fornecer o nome do reino e o nome do clã como parâmetros (os espaços são ignorados): 'annexation.vassalize_clan [kingdom] [clan]'."/>
+    <string id="DK_028" text="anexação"/>
+    <string id="DK_029" text="Você precisa fornecer o nome do reino como parâmetro (os espaços são ignorados): 'annexation.vassalize_all_rebels [kingdom]'."/>
+    <string id="DK_030" text="Não foi possível encontrar o reino com"/>
+    <string id="DK_031" text="nome. Você precisa fornecer o nome do reino como parâmetro (os espaços são ignorados): 'annexation.vassalize_all_rebels [kingdom]'."/>
+    <string id="DK_032" text="{NAME} clãs sem reino juntaram-se a {KINGDOM}."/>
+    <string id="DK_033" text="anexação"/>
+    <string id="DK_034" text="Você precisa fornecer o nome do reino e o nome do clã como parâmetros (os espaços são ignorados): 'annexation.vassalize_clan [kingdom] [clan]'."/>
+    <string id="DK_035" text="Não foi possível encontrar o reino com "/>
+    <string id="DK_036" text=" nome. Você precisa fornecer o nome do reino e o nome do clã como parâmetros (os espaços são ignorados): 'annexation.vassalize_clan [kingdom] [clan]'."/>
+    <string id="DK_037" text="Não foi possível encontrar o clã com "/>
+    <string id="DK_038" text=" nome. Você precisa fornecer o nome do reino e o nome do clã como parâmetros (os espaços são ignorados): 'annexation.vassalize_clan [kingdom] [clan]'."/>
+    <string id="DK_039" text="O clã {NAME} juntou-se a {KINGDOM}."/>
+    <string id="DK_040" text="Exijo que você e {HERO_KINGDOM} reconheçam minha autoridade como {HERO_KINGDOM_TITLE} de {HERO_KINGDOM_CULTURE}."/>
+    <string id="DK_041" text="E por que eu deveria fazer isso?"/>
+    <string id="DK_042" text="{PLAYER_KINGDOM} é muito mais forte que {HERO_KINGDOM}."/>
+    <string id="DK_043" text="Deixa para lá."/>
+    <string id="DK_044" text="Isso é verdade, mas eu precisaria de mais razões para esse tipo de decisão."/>
+    <string id="DK_045" text="Deixa para lá."/>
+    <string id="DK_046" text="Mas por que VOCÊ deveria ser o único a governar {HERO_KINGDOM_CULTURE} pessoas?"/>
+    <string id="DK_047" text="{PLAYER_KINGDOM} está controlando grande parte dos terrenos de {HERO_KINGDOM_CULTURE}."/>
+    <string id="DK_048" text="{PLAYER_KINGDOM} está controlando grande parte dos terrenos de {HERO_KINGDOM_CULTURE}."/>
+    <string id="DK_049" text="Deixa para lá."/>
+    <string id="DK_050" text="Prossiga."/>
+    <string id="DK_051" text="Você pode confiar em minha palavra - estarei cuidando da {HERO_KINGDOM_CULTURE}."/>
+    <string id="DK_052" text="Se você não reconhecer minha autoridade, matarei você e todos os seus apoiadores."/>
+    <string id="DK_053" text="Recompensarei generosamente todos os que me forem fiéis."/>
+    <string id="DK_054" text="Muitas vezes mostrei meu valor como um líder destemido nos campos de batalha."/>
+    <string id="DK_055" text="Deixa para lá"/>
+    <string id="DK_056" text="Esta é uma decisão difícil, mas depois de considerar todas as circunstâncias, é a única coisa que posso fazer."/>
+    <string id="DK_057" text="Eu juro homenagem a você como meu legítimo suserano."/>
+    <string id="DK_058" text="Estarei ao seu lado para lutar contra seus inimigos, caso precise de minha espada."/>
+    <string id="DK_059" text="E defenderei seus direitos e os direitos de seus herdeiros legítimos."/>
+    <string id="DK_060" text="Agora você é meu {HERO_KINGDOM_TITLE}."/>
+
+    <string id="DK_061" text="não controla nenhum feudo"/>
+    <string id="DK_062" text="controla muito poucos feudos."/>
+    <string id="DK_063" text="{HERO_KINGDOM} é mais forte que {PLAYER_KINGDOM}."/>
+    <string id="DK_064" text="{KINGDOM1} tem {NUM}% da força de {KINGDOM2}. Precisa ser inferior a {ANEX}%"/>
+    <string id="DK_065" text="Você está controlando {PORC}% dos feudos de {NAME} ({NEED}% necessário)."/>
+    <string id="DK_066" text="{KINGDOM1} está controlando {COUNT} feudos (no máximo {MAX})."/>
+    <string id="DK_067" text="{ANNEXING} anexo {ANNEXED}. {NAME} e {COUNT} de {SOURCE} clãs vassalos decidiram colaborar."/>
+
+
+
+
+
+
+  </strings>
+</base>

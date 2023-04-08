@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "AU55O8av+asx+jOgap1G5lxfSFgzbVkh1RVzBHMMGDITmH3HHMDBbuNaBmeqE2myS5hVDWUT/1SkZHoyfoLLXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpsbe\\OneDrive\\source\\repos\\DestroyKingdom Real\\DestroyKingdom\\DestroyKingdom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.mcm\\5.3.1\\bannerlord.mcm.5.3.1.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.modulemanager.source\\5.0.198\\bannerlord.modulemanager.source.5.0.198.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.referenceassemblies\\1.0.0.4407\\bannerlord.referenceassemblies.1.0.0.4407.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.referenceassemblies.birthanddeath\\1.1.1.141481\\bannerlord.referenceassemblies.birthanddeath.1.1.1.141481.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.referenceassemblies.core\\1.1.1.141481\\bannerlord.referenceassemblies.core.1.1.1.141481.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.referenceassemblies.custombattle\\1.1.1.141481\\bannerlord.referenceassemblies.custombattle.1.1.1.141481.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.referenceassemblies.dedicatedcustomserverhelper\\1.1.1.141481\\bannerlord.referenceassemblies.dedicatedcustomserverhelper.1.1.1.141481.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.referenceassemblies.native\\1.1.1.141481\\bannerlord.referenceassemblies.native.1.1.1.141481.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.referenceassemblies.sandbox\\1.1.1.141481\\bannerlord.referenceassemblies.sandbox.1.1.1.141481.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\bannerlord.referenceassemblies.storymode\\1.1.1.141481\\bannerlord.referenceassemblies.storymode.1.1.1.141481.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\butr.harmony.analyzer\\1.0.1.42\\butr.harmony.analyzer.1.0.1.42.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\harmony.extensions\\3.1.0.67\\harmony.extensions.3.1.0.67.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\isexternalinit\\1.0.3\\isexternalinit.1.0.3.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\cpsbe\\.nuget\\packages\\nullable\\1.3.1\\nullable.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
